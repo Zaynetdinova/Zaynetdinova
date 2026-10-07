@@ -1,100 +1,137 @@
-## # Hi, I'm Ilmira 👋
+# 👋 Привет! Я Ильмира Давлеткулова
 
 ### AI Automation Engineer
 
-I build AI-powered applications and automation workflows using **Python, LLM APIs, n8n, RAG, tool calling and modern web technologies**.
+Разрабатываю AI-приложения и автоматизации с использованием **Python, LLM API, n8n, RAG, AI Agents и API-интеграций**.
 
-My background is in web development, with a focus on HTML/email development, and I'm currently transitioning into AI Automation Engineering.
-
----
-
-## 🚀 What I build
-
-* AI-powered applications
-* LLM integrations and structured outputs
-* AI automation workflows with **n8n**
-* RAG systems with vector databases
-* AI agents and tool calling
-* API integrations
-* Telegram and email automation
-* Full-stack AI prototypes
+Имею опыт веб-разработки и сейчас специализируюсь на создании практических AI-решений, которые автоматизируют бизнес-процессы и взаимодействие с пользователями.
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Что я разрабатываю
 
-### AI & Automation
+* AI-приложения и AI-ассистентов
+* автоматизации с использованием LLM
+* AI-workflows в **n8n**
+* RAG-системы и семантический поиск
+* AI Agents и tool calling
+* интеграции с внешними API
+* Telegram-ботов с AI
+* автоматизацию работы с email
+* backend и API для AI-приложений
 
-`OpenAI API` `LLM` `RAG` `AI Agents` `Prompt Engineering` `Tool Calling` `n8n`
+---
 
-### Backend & Data
+## 🛠 Технологии
 
-`Python` `FastAPI` `NestJS` `PostgreSQL` `Prisma` `Redis` `pgvector`
+### AI и автоматизация
+
+`Python` `OpenAI API` `LLM` `RAG` `AI Agents` `Tool Calling` `Prompt Engineering` `n8n`
+
+### Backend и данные
+
+`NestJS` `FastAPI` `PostgreSQL` `Prisma` `Redis` `pgvector`
 
 ### Frontend
 
 `TypeScript` `React` `Next.js` `Zustand`
 
-### Tools
+### Инструменты
 
 `Git` `GitHub` `Docker` `VS Code`
 
 ---
 
-## ⭐ Featured Project
+## ⭐ Основной проект
 
-### 🏠 AI Real Estate Consultant — Ufa
+### 🏠 AI-консультант по недвижимости в Уфе
 
-An AI-powered web application that helps users find suitable real estate in Ufa based on their requirements.
+AI-приложение, которое помогает пользователю подобрать недвижимость в Уфе на основе его требований.
 
-**Features:**
+Пользователь описывает задачу обычным языком, а AI-консультант анализирует требования, ищет подходящие варианты и формирует рекомендации.
 
-* AI consultation
-* Natural language property search
-* Structured LLM responses
-* RAG / vector search
-* Property recommendations
+**Основные возможности:**
+
+* AI-консультация
+* подбор недвижимости по требованиям
+* поиск по естественному языку
+* RAG
+* семантический поиск
+* векторный поиск
+* структурированные ответы LLM
+* streaming AI-ответов
+* интеграция с Telegram
+* интеграция с Gmail
+* автоматизации в n8n
 * PostgreSQL + pgvector
 * Redis
-* n8n automation
-* Telegram Bot integration
-* Gmail integration
 
-**Stack:**
+**Стек:**
 
 `Next.js` `React` `TypeScript` `NestJS` `PostgreSQL` `pgvector` `Redis` `Prisma` `OpenAI API` `n8n`
 
-👉 [View the project](https://github.com/Zaynetdinova/estate_ufa)
+👉 [Посмотреть проект](https://github.com/Zaynetdinova/estate_ufa)
 
 ---
 
-## 🧠 Currently Learning
+## 🧠 Сейчас изучаю
 
-* Python for AI automation
-* LLM application development
-* RAG architectures
-* AI agents
-* Tool calling
-* n8n automation
-* AI API integrations
-* Production-ready AI applications
-
----
-
-## 🎯 Career Goal
-
-I'm looking for opportunities as an **AI Automation Engineer / AI Automation Developer**, building practical AI solutions that automate business processes and improve user workflows.
+* Python для AI Automation
+* LLM API
+* RAG и векторный поиск
+* AI Agents
+* Tool Calling
+* n8n
+* интеграцию AI с внешними API
+* разработку AI-приложений
+* автоматизацию бизнес-процессов с помощью AI
 
 ---
 
-## 📫 Contact
+## 🎯 Профессиональная цель
 
-* GitHub: [@Zaynetdinova](https://github.com/Zaynetdinova)
-* LinkedIn: [Ilmira Davletkulova](#)
+Развиваться в направлении **AI Automation Engineering** и создавать практические AI-решения, которые позволяют автоматизировать рутинные процессы, интегрировать LLM в существующие системы и улучшать пользовательские сценарии.
 
 ---
 
-⭐ Feel free to explore my repositories and projects.
+## 📌 Избранные проекты
+
+### 🏠 estate_ufa
+
+AI-консультант по подбору недвижимости в Уфе.
+
+`LLM` `RAG` `n8n` `Next.js` `NestJS` `PostgreSQL` `pgvector`
+
+### 🤖 ai-automation-n8n
+
+Практические AI-автоматизации и workflows на базе n8n.
+
+`n8n` `OpenAI API` `Webhooks` `Telegram` `Gmail`
+
+### 🐍 python-ai-automation
+
+Примеры автоматизации на Python для работы с LLM, API, файлами и данными.
+
+`Python` `OpenAI API` `REST API` `Async`
+
+### 🔎 rag-knowledge-assistant
+
+AI-ассистент с поиском по собственной базе знаний.
+
+`Python` `RAG` `Embeddings` `pgvector`
+
+---
+
+## 📫 Контакты
+
+**GitHub:** [@Zaynetdinova](https://github.com/Zaynetdinova)
+
+**LinkedIn:** добавлю ссылку после оформления профиля.
+
+---
+
+⭐ Спасибо, что заглянули в мой профиль!
+
 
 
 <!--
