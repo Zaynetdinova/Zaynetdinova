@@ -1,4 +1,4 @@
-# 👋 Привет! Я Ильмира Давлеткулова
+# 👋 Hi, I'm Ilmira 👋
 
 ### AI Automation Engineer
 
