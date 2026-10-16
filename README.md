@@ -125,9 +125,7 @@ AI-ассистент с поиском по собственной базе з�
 ## 📫 Контакты
 
 **GitHub:** [@Zaynetdinova](https://github.com/Zaynetdinova)
-
-**LinkedIn:** добавлю ссылку после оформления профиля.
-
+**Telegram:** [@ilmira_davletkulova] (https://t.me/ilmira_davletkulova)
 ---
 
 ⭐ Спасибо, что заглянули в мой профиль!
